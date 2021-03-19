@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WildWestExodusDiceRoller</string>
+    <string name="hold_button_label">Hold</string>
+    <string name="change_button_label">Change</string>
+    <string name="add_button_label">ADD</string>
+    <string name="rem_button_label">REM</string>
+    <string name="roll_button_label">ROLL</string>
+</resources>
